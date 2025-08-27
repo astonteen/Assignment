@@ -1,0 +1,43 @@
+1,Sushi Plate,Japanese,35.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Wasabi Japanese House\sushi-plate.png,0001
+2,Ramen,Japanese,22.0,4.8,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Wasabi Japanese House\ramen-bowl.png,0001
+3,Tempura,Japanese,12.0,4.9,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Wasabi Japanese House\tempura.png,0001
+4,Sashimi (3pcs),Japanese,18.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Wasabi Japanese House\sashimi.png,0001
+5,Oden,Japanese,14.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Wasabi Japanese House\oden.png,0001
+6,Wasabi,Japanese,2.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Wasabi Japanese House\wasabi.png,0001
+7,Green Tea (Hot),Beverage,3.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Wasabi Japanese House\hot-green-tea.png,0001
+8,Green Tea (Ice),Beverage,3.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Wasabi Japanese House\ice-tea.png,0001
+10,Baozi Bun,Chinese,12.0,4.7,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\baozi.png,0002
+11,Wonton with Chili Oil,Chinese,16.0,4.6,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\wonton-soup.png,0002
+12,Beef Dumpling,Chinese,16.0,4.7,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\dumplings.png,0002
+13,Yang Zhou Fried Rice,Chinese,13.0,4.8,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\fried-rice.png,0002
+14,Luo Shi Fen Noodle,Chinese,16.0,4.9,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\luoshifen.png,0002
+15,White Rice,Chinese,2.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\rice.png,0002
+16,Grilled Scallops (4pcs),Chinese,20.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\scallops.png,0002
+17,Spicy Hot Pot (Seafood),Chinese,58.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\hot-pot.png,0002
+18,Non-Spicy Hot Pot (Seafood),Chinese,55.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\hot-pot2.png,0002
+19,Coconut,Beverage,5.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\coconut.png,0002
+20,Chinese Tea (Pot),Beverage,4.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\teapot.png,0002
+21,Herbal Tea,Beverage,2.5,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\A1 Chinese Restaurant\herbal-tea.png,0002
+22,Beef Spaghetti,Western,28.0,4.9,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\beef-pasta.png,0007
+23,Truffle Cabonara Spaghetti,Western,32.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\cabonara-pasta.png,0007
+24,Tomato Chicken Spaghetti,Western,23.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\tomato-pasta.png,0007
+25,Tuna Delight Pizza,Western,24.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\tuna-delight.png,0007
+26,Cheese Lover Pizza,Western,24.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\cheese-lover.png,0007
+27,Pepperoni Pizza,Western,24.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\pepperoni.png,0007
+28,Veggies Deluxe Pizza,Western,24.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\veggies-deluxe.png,0007
+29,Fish and Chips,Western,20.0,4.8,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\fish-chips.png,0007
+30,Curly Fries,Western,12.0,4.7,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\curly-fries.png,0007
+31,Lemonade,Beverage,10.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\lemonade.png,0007
+32,Carrot Juice,Beverage,10.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\carrot-juice.png,0007
+33,Watermelon Juice,Beverage,10.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\watermelon-juice.png,0007
+34,Orange Juice,Beverage,10.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Brewhouse\orange-juice.png,0007
+35,Chocolate Cake,Dessert,18.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\chocolate-cake.png,0008
+36,Strawberry Cake,Dessert,22.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\strawberry-cake.png,0008
+37,New York Cheesecake,Dessert,16.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\newyork-cheesecake.png,0008
+38,Souffle Cheesecake,Dessert,16.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\souffle-cheesecake.png,0008
+39,Hokkaido Cupcake,Dessert,8.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\cupcake.png,0008
+40,Macaron (4pcs),Dessert,14.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\macaron.png,0008
+41,Vanilla Cone,Dessert,2.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\vanilla-cone.png,0008
+42,Chocolate Cone,Dessert,2.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\chocolate-cone.png,0008
+43,Gelato (3 scoops）,Dessert,16.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\gelato.png,0008
+44,Ice Cream (Cups),Dessert,10.0,5.0,C:\Users\xianc\Documents\NetBeansProjects\ddly-master2\src\main\Resources\Menu\Veronna\mix ice-cream.png,0008

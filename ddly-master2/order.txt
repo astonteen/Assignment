@@ -1,0 +1,4 @@
+ORDER-00130;Ramen;Japanese;22.00;23.10;2.31;1.16;25.41;xianci; ;Cancelled;Dinein;2025-02-11 15:09:02
+DELIVERY-00246;Tempura;Japanese;12.00;17.85;1.79;0.89;19.64;xianci;Parkhill, KL, BJ 57000;Completed;Delivery;2025-02-11 15:09:27;2025-02-11 15:27:11
+ORDER-00132;Oden;Japanese;14.00;14.70;1.47;0.74;16.17;xianci; ;Completed;Dinein;2025-02-11 15:35:29;null;2025-02-11 15:35:50
+DELIVERY-00247;Vanilla Cone;Dessert;2.00;7.35;0.74;0.37;8.09;xianci;Parkhill, KL, BJ 57000;Runner Assigned;Delivery;2025-02-11 16:20:30

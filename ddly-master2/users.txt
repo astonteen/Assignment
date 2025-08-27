@@ -1,0 +1,8 @@
+0001;Wasabi Japanese House;1234;Vendor;Pavillion;KL;Bukit Bintang;55100
+0004;xianci;0515;Customer;Parkhill;KL;BJ;57000
+0005;eve;0515;Runner;abc;abc;abc;57000
+0006;eugene;0721;Manager;abc;abc;abc;43200
+0002;A1 Chinese Restaurant;1234;Vendor;Aurora;Kuala Lumpur;Bukit Jalil;57000
+0003;dickson;0103;Customer;abc;abc;abc;12345
+0007;Brewhouse;1234;Vendor;Sunway Velocity;Kuala Lumpur;Cheras;55100
+0008;Veronna;1234;Vendor;Pavillion2;Kuala Lumpur;Bukit Jalil;57000
